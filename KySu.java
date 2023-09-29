@@ -22,4 +22,7 @@ public class KySu extends CanBo{
         super.hienThi();
         System.out.print(nganh);
     }
+    public void thangngu(){
+        system.out.print("thangngu");
+    }
 }
