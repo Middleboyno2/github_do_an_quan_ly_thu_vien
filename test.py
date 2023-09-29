@@ -237,3 +237,15 @@ if 2 <= n <= 10000:
     for i in range(2, n + 1):
       s += 1/i
 print("{:.4f}".format(s))
+djfsakjflkd
+fdjasklfjd
+asdjflkjasldkf
+lakdsjflkajdslfk
+laksdjflkajdslkfj
+alkdsjflkajsdlkfj
+lakdjfjalsdkfja
+alkjdsflkajsdlkfj
+lakdsflkjalkdsjf
+laksdjflkajsldkfj
+laksdjfklajdlksfj
+alksdjflkjaldkjf
