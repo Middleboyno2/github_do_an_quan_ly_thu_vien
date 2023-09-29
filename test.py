@@ -231,7 +231,6 @@ print(len(ds))
 print(total)
 
 '''
-
 n = int(input())
 s = 0
 if 2 <= n <= 10000:
